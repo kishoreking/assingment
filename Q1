@@ -1,0 +1,12 @@
+Q1. How Firewall helps to secure PC?
+
+--> Firewall is a software installed in computer. Firewall works as a filter between our computer and internet. It gives protection to our system, when we are watching any videos ,playing game online etc... firewall prevents unwanted software/malware to get  downloaded and affect our system. It only allows the software to run to which we have given permission and blocks the unwanted networks. It also protects other PC, if we are connected to a network and our system has virus then firewall stops it from spreading in other systems. There are two ways a Firewall can prevent this from happening. It can allow all traffic to pass through except data that meets a predetermined set of criteria, or it can prohibit all traffic unless it meets a predetermined set of criteria.There are two types of firewalls: network firewalls and host-based firewalls.The network firewall monitors the communications occurring between the our system and outside sources. We can accordingly block the unwanted websites, services.It is usually used in companies. Host-based firewalls are useful for homes with multiple systems sharing the same network. It protect our system from malware, cookies, email viruses, pop-up windows etc... Firewalls use one or a combination of the following three methods to control traffic flowing in and out of the network-
+
+Packet filtering ---
+Packet filtering is a firewall technique used to control network access by monitoring outgoing and incoming packets and allowing them to pass or halt based on the source and destination Internet Protocol (IP) addresses, protocols and ports.
+
+Proxy service ---
+A proxy firewall is a network security system that protects network resources by filtering messages at the application layer.
+
+Stateful inspection ---
+Stateful inspection, also referred to as dynamic packet filtering, is a firewall architecture that works at the network layer.
