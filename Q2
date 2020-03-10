@@ -1,0 +1,17 @@
+Q2. If you are a system admin then what steps you will take to secure it?
+
+--> It is a full time job. As a system security admin we have responsiblities to defend systems against unauthorized access , perform vulnerability and penetration tests ,monitor traffic for suspicious activity, configure and support security tools (firewalls, antivirus, and IDS/IPS software) , implement network security policies, analyze and establish security requirements, identify threats and working on steps to defend against them , develop and update disaster recovery protocols , conduct security audits.In order for a company or an individual to use a computing device with confidence, they must first be assured that the device is not compromised in any way and that all communications will be secure. The Information Security Triad: Confidentiality, Integrity, Availability (CIA). The device can be attacked by a hacker anytime so to secure it we have to do the following ---
+We should secure system with password always change the password after a regular interval.
+We should use safe and secure router.
+We should keep the active check on all system so that no one from inside hacks.
+We should encrypt the whole disk.
+We should  always update the operating system.
+We should beware of spoofing and phishing.
+We should use proper Firewalls.
+We should always keep the anti virus updated.
+We should not use public wifi.
+We should always backup our data. 	
+We should always try to store data in cloud.
+We should secure mobile devices, pen drives etc... before connecting it to computers.
+We should use VPN because it allows a user who is outside of a corporate network to take a detour around the firewall and access the internal network from the outside.
+There should be a proper security policies in company.
